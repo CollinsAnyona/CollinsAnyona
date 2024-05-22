@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Otieno Collins Junior
+- 👋 Hi, I’m Otieno Collins Junior
 - 👀 I’m interested in Agri-tech and Education
 - 🌱 I’m currently learning Software Engineering and I'm a Data Scientist
 - 📫 You may reach me on LinkedIn using the link on my bio
