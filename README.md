@@ -1,4 +1,4 @@
-# Hi, I'm Collins Otieno 👋
+# Hi, I'm Collins Otieno Junior
 
 **Data Analyst** based in Nairobi, Kenya — turning messy, complex data into clear decisions.
 
@@ -6,7 +6,7 @@ I work across the full analytics lifecycle: data ingestion, cleaning, pipeline a
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 | Category | Stack |
 |---|---|
@@ -19,9 +19,9 @@ I work across the full analytics lifecycle: data ingestion, cleaning, pipeline a
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🌾 Agricultural Analytics Dashboard
+### Agricultural Analytics Dashboard
 > Power BI dashboard tracking farmer adoption trends, crop performance, and environmental KPIs across agri-tech operations.
 
 - Integrated operational and environmental datasets into a single monitoring system
@@ -30,7 +30,7 @@ I work across the full analytics lifecycle: data ingestion, cleaning, pipeline a
 
 ---
 
-### 🔬 Research Data Pipeline Automation
+### Research Data Pipeline Automation
 > Python-based automation framework for research-grade data cleaning, validation, and analysis.
 
 - Modular pandas/NumPy workflows that cut manual processing overhead significantly
@@ -39,7 +39,7 @@ I work across the full analytics lifecycle: data ingestion, cleaning, pipeline a
 
 ---
 
-### 📊 Google Data Analytics Capstone
+### Google Data Analytics Capstone
 > Full-cycle analytics project — from raw data to stakeholder-ready dashboard and recommendations.
 
 - Applied the complete analytics lifecycle: prepare → process → analyse → share → act
@@ -48,7 +48,7 @@ I work across the full analytics lifecycle: data ingestion, cleaning, pipeline a
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 - **Research Fellow, Equitech Futures** — Built Python & R pipelines for large-scale research datasets; automated NLP workflows for topic modelling and insight extraction
 - **Founder, Shamba Salama** — Designed end-to-end data collection and monitoring systems; built Power BI dashboards for agri-tech performance tracking
@@ -56,15 +56,15 @@ I work across the full analytics lifecycle: data ingestion, cleaning, pipeline a
 
 ---
 
-## 🎓 Education & Certification
+## Education & Certification
 
-- 🎓 BSc (Hons) Software Engineering — African Leadership University, 2026
-- 🎓 BSc Data Science & Analytics *(in progress)* — USIU-Africa
-- 📜 Google Data Analytics Professional Certificate — Coursera, 2026
+- BSc (Hons) Software Engineering — African Leadership University, 2026
+- BSc Data Science & Analytics *(in progress)* — USIU-Africa
+- Google Data Analytics Professional Certificate — Coursera, 2026
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 I'm currently open to **Data Analyst, Business Intelligence, and Research Analyst** roles — in Nairobi or remote.
 
